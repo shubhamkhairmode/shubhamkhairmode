@@ -1,4 +1,5 @@
-<img src="[direct_image_url_here](https://www.canva.com/design/DAFwZoxkoRU/fvgBxrCyZtC5l9LQgIuBwg/view?utm_content=DAFwZoxkoRU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)" alt="MasterHead">
+<img src="sbk.jpg" alt="MasterHead">
+
 
 <h1 align="center">Hi 👋, I'm Shubham Khairmode</h1>
 <h3 align="center">A passionate Data Scientist & Machine Learning Engineer from India</h3>
