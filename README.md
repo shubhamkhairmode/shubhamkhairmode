@@ -1,4 +1,4 @@
-<img src="sbk.jpg" alt="MasterHead">
+<img src="https://github.com/shubhamkhairmode/shubhamkhairmode/blob/main/sbk.jpg" alt="MLBC">
 
 
 <h1 align="center">Hi 👋, I'm Shubham Khairmode</h1>
