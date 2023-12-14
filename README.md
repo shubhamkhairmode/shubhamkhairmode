@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkhairmode&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkhairmode" /> </p>
 
-- 🌱 I’m currently learning **Advance Machine Learning Concepts & Generative AI**
+- 🌱 I’m currently working as **Data Scientist**
   
 - 👨‍💻 Completed **Full Stack Data Science certificates.** 
 
